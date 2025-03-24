@@ -2,14 +2,14 @@
 
 This project is a conversational AI chatbot that utilizes **Ollama** for text-based chat responses and **Murf AI** for converting responses into voice output.
 
-## 🚀 Features
+##  Features
 - **Conversational AI**: Uses the **LLaMA 3** model for chat.
 - **Context Memory**: Maintains conversation history for better interactions.
 - **Voice Output**: Converts AI responses into speech using Murf AI.
 
 ---
 
-## 🛠 Prerequisites
+##  Prerequisites
 
 Ensure you have the following installed:
 
@@ -19,14 +19,14 @@ Ensure you have the following installed:
 
 ---
 
-## 🔧 Installation
+##  Installation
 
-### 1️⃣ Install Ollama Locally
+###  Install Ollama Locally
 Download and install Ollama from [Ollama's official website](https://ollama.com).  
 Once installed, download specific model on local
 
 
 
-## 🙌 Credits
+##  Credits
 - **Ollama**: For running **LLaMA 3** locally.
 - **Murf AI**: For providing high-quality text-to-speech conversion.
